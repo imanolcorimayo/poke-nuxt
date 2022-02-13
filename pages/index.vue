@@ -21,10 +21,6 @@ export default {
 
 <style>
 
-  body {
-    margin: 0px;
-  }
-
   .background {
     width: 100vw;
     height: 100vh;
